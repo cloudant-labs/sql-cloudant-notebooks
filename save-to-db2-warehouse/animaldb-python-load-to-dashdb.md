@@ -1,4 +1,9 @@
 # Simple load from Cloudant to Db2 in Spark using DSX (Python language)
+
+**Note: [This example](https://github.com/cloudant-labs/data-flow-examples/blob/master/spark-on-watson-studio/animaldb-python-load-to-dashdb.md) has moved.
+Please see the [data-flow-examples](https://github.com/cloudant-labs/data-flow-examples) repository for additional tutorials using various technologies to extract data from IBM Cloudant and write the data to IBM Db2 Warehouse on Cloud.**
+
+
 This tutorial is an introduction on loading Cloudant data into Apache Spark and saving the data into Db2.
 In this tutorial you will:
 

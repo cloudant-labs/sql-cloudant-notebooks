@@ -1,5 +1,7 @@
-
 # Load crime data from Cloudant to Db2 in Spark
+
+**Note: [This example](https://github.com/cloudant-labs/data-flow-examples/blob/master/spark-on-watson-studio/crimes-load-to-dashdb-python.md) has moved.
+Please see the [data-flow-examples](https://github.com/cloudant-labs/data-flow-examples) repository for additional tutorials using various technologies to extract data from IBM Cloudant and write the data to IBM Db2 Warehouse on Cloud.**
 
 This Python notebook loads Cloudant documents into Apache Spark, and then saves the Spark DataFrame into a Db2 table.
 In this tutorial you will:

@@ -1,5 +1,7 @@
 # IBM Cloudant to Db2 tutorials using Apache Spark™ in Data Science Experience
 
+**The example tutorials in this directory have moved [here](https://github.com/cloudant-labs/data-flow-examples/tree/master/spark-on-watson-studio). Please see the [data-flow-examples](https://github.com/cloudant-labs/data-flow-examples) repository for additional tutorials using various technologies to extract data from IBM Cloudant and write the data to IBM Db2 Warehouse on Cloud.**
+
 **Note:** These examples are only intended as a starting point for loading Cloudant documents into Apache Spark and inserting them into Db2 Warehouse on Cloud. They are not intended as a drop-in replacement for the deprecated Cloudant warehouse integration. In particular these examples do not perform upsert or handle document deletion.
 
 This directory contains the following example tutorials:
